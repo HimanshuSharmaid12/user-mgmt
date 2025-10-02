@@ -22,6 +22,7 @@ root/
 ## ⚡ Features
 
 - 🔐 **Authentication** – User Register & Login (JWT based)
+- 🔐 **Google SignIn** – User SignIn with Google
 - 🛡 **Protected Routes** – Dashboard only accessible when logged in
 - 📊 **Dashboard Table** – Displays records with 6 columns:
   - Name, Email, Phone Number, Age, Father's Name
